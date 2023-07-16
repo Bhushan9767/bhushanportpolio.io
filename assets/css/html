@@ -1,0 +1,32 @@
+<div class="project_wrap">
+  <div class="project">
+    <div class="project-display">
+      <img src="assets\images\blob.svg">
+    </div>
+    <div class="project-desc">
+      <h1>Bitter Typeface</h1>
+      <p>Body Text<p>
+    </div>
+  </div>
+  
+  <div class="project">
+    <div class="project-display">
+      <img src="assets\images\hero-shape.svg">
+    </div>
+    <div class="project-desc">
+      <h1>Bitter Typeface</h1>
+      <p>Body Text<p>
+    </div>
+  </div>
+  
+  <div class="project">
+    <div class="project-display">
+      <img src="assets\images\logo-light.svg">
+    </div>
+    <div class="project-desc">
+      <h1>Bitter Typeface</h1>
+      <p>Body Text<p>
+    </div>
+  </div>
+</div>
+<style>
